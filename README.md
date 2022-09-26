@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ilie Burdiniuc</h1>
 <h3 align="center">Student at the Univeristy Politehnica Bucharest (UPB) - Faculty of Automatic Control and Computer Science. Intern at Xperi (FotoNation)</h3>
 
+- 🌍 I’m originating from Balti, Republic of Moldova, but **based in Bucharest**
+
 - 🌱 I’m currently learning **Django, Django Rest Framework, React, React Native.**
 
 - 👨‍💻 Many of my projects are available **here on my repos.**
 
 - 📫 How to reach me **ilya.burdyniuk@gmail.com**
-
-- 🌍 I’m originating from Balti, Republic of Moldova, but **based in Bucharest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
