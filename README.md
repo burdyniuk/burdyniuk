@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, Django Rest Framework, React, React Native.**
 
-- 👨‍💻 Many of my projects are available at **here on my repos.**
+- 👨‍💻 Many of my projects are available **here on my repos.**
 
 - 📫 How to reach me **ilya.burdyniuk@gmail.com**
 
